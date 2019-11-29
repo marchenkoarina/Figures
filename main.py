@@ -38,7 +38,7 @@ def square(x, y, size, colour, angle):
     turtle.penup()
     pass
   
-  def main():
+ def main():
     # TODO: (Olya) figure 1
     square(-120, 60, 60, 'red', 0)
     triangle(-105, 150, 30, 'red', 270)
