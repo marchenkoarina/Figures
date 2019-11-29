@@ -17,7 +17,7 @@ def triangle(x, y, size, colour, angle):
     turtle.penup()
     pass
   
-  def square(x, y, size, colour, angle):
+def square(x, y, size, colour, angle):
     # TODO: (Arina)
     turtle.penup()
     turtle.goto(x, y)
