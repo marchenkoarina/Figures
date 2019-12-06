@@ -1,5 +1,4 @@
 import turtle 
-from turtle import *
 
 def triangle(x, y, size, colour, angle):
     # TODO: (Olya)
@@ -39,6 +38,7 @@ def square(x, y, size, colour, angle):
     pass
   
  def main():
+    
     # TODO: (Olya) figure 1
     square(-120, 60, 60, 'red', 0)
     triangle(-105, 150, 30, 'red', 270)
@@ -83,5 +83,6 @@ def square(x, y, size, colour, angle):
     triangle(-30, -120, 30, 'green', 90)
     triangle(-60, -150, 30, 'green', 270)
     pass
-  
+
+main()
   
